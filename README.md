@@ -29,5 +29,5 @@
    - Mutable Variables : var
    - Immutable Variables : val
    
-   (**NOTE** : Immutable variable is not a constant because it can be initialized with the value of a variable. It means the         value of immutable variable doesn’t need to be known at compile-time, and if it is declared inside a construct that is         called repeatedly, it can take on a different value on each function call.)
+   (**NOTE** : _Immutable variable is not a constant because it can be initialized with the value of a variable. It means the         value of immutable variable doesn’t need to be known at compile-time, and if it is declared inside a construct that is         called repeatedly, it can take on a different value on each function call._)
    
