@@ -60,8 +60,8 @@
 
    ###### output
    
-  - print("hello")       // prints "hello" in same line
-  - println("hello")     // prints "hello" in next line
+  - ```print("hello")```      // prints "hello" in same line
+  - ```println("hello")```     // prints "hello" in next line
    
    
    ###### input
