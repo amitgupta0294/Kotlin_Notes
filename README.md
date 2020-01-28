@@ -57,6 +57,30 @@
    https://www.geeksforgeeks.org/kotlin-operators
    
 ## Kotlin Standard I/O   
+
+   ###### output
+   
+   print("hello")       // prints "hello" in same line
+   println("hello")     // prints "hello" in next line
+   
+   
+   ###### input
+   
+   readLine()             // this function takes input from keyboard as string
+   Scanner class          // this is used if we want to take input other than string 
+   
+   Usage of readLine
+   
+   ```
+   var a = readline()!!    // !! is used to ensure the input is not empty
+   ```
+   
+   Usage of Scanner: 
+   
+   ```
+   var scanner = Scanner(System.`in`)
+   var value = scanner.nextInt()
+   ```
    
    
    
