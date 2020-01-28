@@ -60,14 +60,14 @@
 
    ###### output
    
-   print("hello")       // prints "hello" in same line
-   println("hello")     // prints "hello" in next line
+  - print("hello")       // prints "hello" in same line
+  - println("hello")     // prints "hello" in next line
    
    
    ###### input
    
-   readLine()             // this function takes input from keyboard as string
-   Scanner class          // this is used if we want to take input other than string 
+  - readLine()             // this function takes input from keyboard as string
+  - Scanner class          // this is used if we want to take input other than string 
    
    Usage of readLine
    
