@@ -4,9 +4,16 @@
 
    Kotlin is a statically typed general-purpose programming language developed by Jetbrains.
    
-   //hello world program in kotlin
-   ```
+  ```
+  // hello world program in kotlin
+   
    fun main(args : Array<String>) {
       println("Hello Kotlin")
    } 
    ```
+   
+## How to run a program in Kotlin ?
+
+   Compile a kotlin program :- kotlinc Hello.kt
+   Run a program in Kotlin :- Kotlinc HelloKt
+   
