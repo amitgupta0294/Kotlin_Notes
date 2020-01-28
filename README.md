@@ -96,10 +96,15 @@
    
    Other similar methods are as follows : 
       - toInt()
+      
       - toDouble()
+      
       - toLong()
+      
       - toFloat()
+      
       - toChar()
+      
       - toByte()
       
       
