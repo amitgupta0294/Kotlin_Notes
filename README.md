@@ -17,7 +17,7 @@
    - Compile a kotlin program :- kotlinc Hello.kt 
    - Run a program in Kotlin :- kotlinc HelloKt
    
-## Types of Data types in Kotlin 
+## Data types in Kotlin 
 
    - Integer Data Type : byte, short, int, long
    - Floating Data Type : float, double
