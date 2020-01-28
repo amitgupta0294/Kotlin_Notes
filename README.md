@@ -82,6 +82,28 @@
    var value = scanner.nextInt()
    ```
    
+## Kotlin Type conversion
+
+   As JAVA kotlin does not support implicit type conversion i.e an integer value cannot be assigned to a long variable.
+   
+   ```
+   var num = 100
+   var value : Long = num       // Compiler error
+   // Type mismatch: inferred type is Int but Long was expected
+   
+   var value : Long = num.toLong()       // Compile success
+   ```
+   
+   Other similar methods are as follows : 
+      - toInt()
+      - toDouble()
+      - toLong()
+      - toFloat()
+      - toChar()
+      - toByte()
+      
+      
+   
    
    
    
