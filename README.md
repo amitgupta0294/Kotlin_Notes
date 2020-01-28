@@ -14,6 +14,7 @@
    
 ## How to run a program in Kotlin ?
 
-   Compile a kotlin program :- kotlinc Hello.kt
+   Compile a kotlin program :- kotlinc Hello.kt 
+   
    Run a program in Kotlin :- Kotlinc HelloKt
    
