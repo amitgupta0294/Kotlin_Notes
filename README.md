@@ -95,17 +95,21 @@
    ```
    
    Other similar methods are as follows : 
-      - toInt()
-      
+   
+      - toInt()   
       - toDouble()
-      
       - toLong()
-      
       - toFloat()
-      
       - toChar()
-      
       - toByte()
+      
+## Kotlin Expressions
+
+   An expression in kotlin is a block that produces a single value.
+   
+   ** NOTE : ** A variable declaration, assigning a value and a class definition can never be an expression
+   
+   ** NOTE : ** In kotlin every function returns a value atleast and default is ```unit```. So every function is an                      expression
       
       
    
