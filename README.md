@@ -2,4 +2,11 @@
 
 ## What is Kotlin ?
 
-   Kotlin is a statically types general-purpose programming language developer by Jetbrains.
+   Kotlin is a statically typed general-purpose programming language developed by Jetbrains.
+   
+   //hello world program in kotlin
+   ```
+   fun main(args : Array<String>) {
+      println("Hello Kotlin")
+   } 
+   ```
